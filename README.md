@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/whit3R0s3.png" alt="TryHackMe">
