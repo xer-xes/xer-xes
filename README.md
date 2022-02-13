@@ -1,6 +1,3 @@
-### Try Hack Me
-
-<h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 <h3 align="center">CyberSecurity Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -27,5 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Try Hack Me
 <img src="https://tryhackme-badges.s3.amazonaws.com/whit3R0s3.png" alt="TryHackMe">
